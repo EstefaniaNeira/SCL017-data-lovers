@@ -1,5 +1,5 @@
 body {
-    background-image: url("/imagenes/fondo.png");
+    background-image: url("imagenes/fondo.png");
     display: flex;
     overflow-x: hidden !important;
 }
@@ -15,7 +15,7 @@ html,body{
 }
 
 #paginaUno {
-    background-image: url("/imagenes/imgFondo.png");
+    background-image: url("imagenes/imgFondo.png");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
